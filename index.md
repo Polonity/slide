@@ -1,3 +1,3 @@
 # hiken のスライド
 
-[conference](https://polonity.github.io/slide/conference)
+[conference](./conference/index.html)
